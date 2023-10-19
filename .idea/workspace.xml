@@ -8,7 +8,8 @@
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/CONFIG.js" beforeDir="false" afterPath="$PROJECT_DIR$/CONFIG.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/musics/V1.wav" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/musics/hbd.mp3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/responsive.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/responsive.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/styles.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/readme.md" beforeDir="false" />
@@ -67,7 +68,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1697720132111</updated>
-      <workItem from="1697720133602" duration="2851000" />
+      <workItem from="1697720133602" duration="4309000" />
     </task>
     <servers />
   </component>

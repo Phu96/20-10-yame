@@ -21,16 +21,6 @@ function start() {
   var headerModar = document.querySelector(".heading-name");
   var desccriptionModar = document.querySelector(".message");
 
-  window.onload = () => {
-    document.querySelector(".music").play();
-    document.querySelector(".music").volume = 1;
-  };
-  window.onkeypress = (e) => {
-    if (e.charCode === 32) {
-      document.querySelector(".music").play();
-    }
-  };
-
   document.querySelector(".header").innerHTML = `
         <h1 class="header-name">
             ${CONFIGDATA.titleHeader}
@@ -46,6 +36,7 @@ function start() {
 
   btnYes.onclick = () => {
     popup.classList.add("show");
+    document.querySelector(".music").play();
   };
   btnClose.onclick = () => {
     popup.classList.remove("show");
